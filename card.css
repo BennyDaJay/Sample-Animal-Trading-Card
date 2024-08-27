@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+ul li {
+  margin: 0;
+}
+ul {
+  list-style: none;
+  text-align: left;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+h3 {
+  font-size: 30px;
+}
+.main-div {
+  width: 300px;
+  padding: 20px;
+  padding-top: 3px;
+  border: 2px solid rgb(241, 236, 236);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
+}
+.my-wolf {
+  display: block;
+  width: 300px;
+}
+ul li span {
+  font-weight: bold;
+}
+.my-texts {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 0;
+  background-color: #f8f8f8;
+  margin-top: 20px;
+  padding: 16px;
+}
+.my-texts p {
+  margin: 16px 0;
+  font-size: 1em;
+}
